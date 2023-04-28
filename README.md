@@ -2,7 +2,7 @@
 <h2>Harvest is a time-tracking app for freelancers that includes invoicing, expensing, and team management features.   </h2>
 <div>
 <h1>Deployment link</h1>
-https://harvestappclone.netlify.app/
+https://harvest-projects-tracking.netlify.app/
 </div>
 <h2>Tech stack used for the application</h2>
 <div>
